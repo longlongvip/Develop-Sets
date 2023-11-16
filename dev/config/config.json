@@ -9,8 +9,8 @@
         "home_url": "/",
         "items": [
             {
-                "url": "/all/",
-                "label": "ALl",
+                "url": "/c/",
+                "label": "C",
                 "position": "left"
             },
             {
@@ -22,6 +22,31 @@
                 "url": "/python/",
                 "label": "Python",
                 "position": "left"
+            },
+            {
+                "url": "/web/",
+                "label": "Web",
+                "position": "left"
+            },
+            {
+                "url": "/rust/",
+                "label": "Rust",
+                "position": "left"
+            },
+            {
+                "url": "/imgui/",
+                "label": "ImGUI",
+                "position": "right"
+            },
+            {
+                "url": "/game/",
+                "label": "Game",
+                "position": "right"
+            },
+            {
+                "url": "/gui/",
+                "label": "GUI",
+                "position": "right"
             }
         ]
     },

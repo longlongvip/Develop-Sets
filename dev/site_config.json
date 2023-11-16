@@ -7,9 +7,14 @@
     "config_template_dir": "config",
     "route": {
         "docs": {
-            "/all/": "docs/all",
+            "/c/": "docs/c",
             "/cpp/": "docs/cpp",
-            "python": "docs/python"
+            "python": "docs/python",
+            "web": "docs/web",
+            "rust": "docs/rust",
+            "imgui": "docs/imgui",
+            "game": "docs/game",
+            "gui": "docs/gui"
         },
         "pages": {
             "/": "pages/index"

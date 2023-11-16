@@ -3,7 +3,5 @@ items:
     file: README.md
 -   label: IDE
     file: IDE.md
--   label: Build
-    file: Build.md
 -   label: Library
     file: Ku.md
